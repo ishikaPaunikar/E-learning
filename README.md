@@ -24,3 +24,10 @@ Technologically, the project uses Vite for fast bundling and development, React 
 
 Overall, this front-end project offers a polished and practical layout for an educational platform, showcasing modern web development skills and a strong sense of design. It is built to be hosted easily and is ready for integration with any backend or learning management system (LMS). With a clear focus on usability and performance, it serves as a strong foundation for developers building scalable eLearning applications. This project highlights skills in responsive design, component-based architecture, video integration, and project organization, making it an ideal portfolio piece for front-end developers or teams aiming to build production-grade educational web apps.
 
+![Image](https://github.com/user-attachments/assets/d5a8a0ee-38f5-4e9b-ac0a-d36e2cf644ae)
+
+![Image](https://github.com/user-attachments/assets/7b300e15-7bfa-4ecb-8985-ee6c52e57801)
+
+![Image](https://github.com/user-attachments/assets/3d9ae431-7de3-4591-9b5a-07a54b51140a)
+
+![Image](https://github.com/user-attachments/assets/a949c947-42fd-413a-9819-a0a951f16493)
