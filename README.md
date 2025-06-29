@@ -1,4 +1,4 @@
-E-LEARNING PLATFORM
+E-LEARNING PLATFORM UI
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTHOSH KUMAR
 
-#DESCRIPTION ABOUT E-LEARNING PLATFORM
+#DESCRIPTION ABOUT E-LEARNING PLATFORM UI
 
 The eLearning platform front-end is a professionally designed, interactive, and multi-page web interface built using modern development tools such as React, Vite, Tailwind CSS, and TypeScript. The project, named GyaanMitra, is created to offer a seamless user experience for learners across India looking to acquire new skills through expert-led courses. It provides an engaging layout for browsing courses, tracking learning progress, and watching embedded educational videos. Built with performance and scalability in mind, the project uses a modular component structure and fast development tooling to ensure smooth navigation and responsiveness across devices.
 
